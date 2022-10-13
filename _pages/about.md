@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.unitn.it/'>University of Trento</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
