@@ -19,3 +19,4 @@ social: true  # includes social icons at the bottom of the page
 Trained as computer scientist and bioinformatician, I am now working as computational biologist in the laboratory of stem cells and cancer genomics at the university of Trento (PhD student).
 
 I’m currently working on the epigenetics of liver regeneration and tumorigeneisis.
+
