@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.unitn.it/'>University of Trento</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.unitn.it/'>University of Trento</a>
 
 profile:
   align: right
   image: mee_newest.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
 
 

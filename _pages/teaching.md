@@ -9,4 +9,4 @@ nav_order: 5
 
 ### 2022-2023
 
-Scientific Programming for Data Science - Module 2
+[https://davidebrex.github.io/sciprog-ds-M2-22_23/](Scientific Programming for Data Science - Module 2){:target="_blank"}
