@@ -1,7 +1,17 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
+title:  Symposium Highlights - ESO Presentation
+date: 15 July 2022
+inline: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+
+Presentation at the European School of oncology (ESO) of the Highlights of the [Pezcoller Symposium.](https://www.pezcoller.it/en/events/symposia/33-pezcoller-symposium-june-13-14-2022/){:target="_blank"}
+
+You can watch the presentation at this [link](https://www.e-eso.net/sessions/3218%20).
+
+The 2022 Pezcoller Symposium in Trento “What are the obstacles to cancer immunotherapy success?” focused on where cancer immunotherapy currently stands, where the stumbling blocks to greater success lie, and how best to overcome them.
+
+
+
+![Eso logo](/assets/img/eso-logo.png "Eso logo")

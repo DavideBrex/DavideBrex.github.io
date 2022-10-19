@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.unitn.it/'>University of Trento</a>
-
+subtitle: PhD Student in the <a href='https://www.cibio.unitn.it/956/laboratory-of-stem-cells-and-cancer-genomics'>Chiacchiera Lab</a>. CIBIO, University of Trento, Italy
 profile:
   align: right
   image: mee_newest.jpg
@@ -11,7 +10,7 @@ profile:
   address: >
 
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
