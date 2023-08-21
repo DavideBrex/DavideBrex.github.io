@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Poster Presentation at the SIBBM Conference in Bari (IT)
+title:  Oral Presentation at the SIBBM Conference in Bari (IT)
 date: 26 June 2023
 inline: false
 ---
