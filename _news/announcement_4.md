@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Podcast INSiDER, Bioinformatica per combattere tumori e virus
+title:  Podcast INSiDER Bioinformatica per combattere tumori e virus
 date: 10 July 2021
 inline: false
 ---
