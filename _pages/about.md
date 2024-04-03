@@ -11,11 +11,13 @@ profile:
 
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 Trained as computer scientist and bioinformatician, I am now working as computational biologist in the laboratory of stem cells and cancer genomics at the university of Trento (PhD student).
 
-My PhD focuses on the epigenetics of liver regeneration and tumorigeneisis.
+MSc graduated at the University of Amsterdam - The Netherlands.  
+
+My PhD research focuses on the epigenetics of liver regeneration and tumorigeneisis. I’m currently learning scRNA-seq, scATAC-seq
 
