@@ -1,6 +1,16 @@
 "Sci. Adv.":
   url: https://www.science.org/journal/sciadv
-  color: "#00369f"
+  color: "#C72326"
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"NAR GAB":
+  url: https://academic.oup.com/nargab
+  color: "#00A4CD"
+
+"Poster":
+  color: "#FFA900"
+
+"Oral Presentation":
+  color: "#FFC500"
