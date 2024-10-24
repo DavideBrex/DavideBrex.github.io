@@ -7,3 +7,12 @@
 
 "Vision":
   color: "#009f36"
+
+"Sci. Adv.":
+  url: https://www.science.org/journal/sciadv
+  color: "#00369f"
+
+
+"Nargab":
+  url: https://academic.oup.com/nargab
+  color: "#00369f"

@@ -2,11 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Tutoring and practical classes
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### 2022-2023
 
-Organize your courses by years, topics, or universities, however you like!
+- Scientific Programming for Data Science - Module 2
+
+### 2023-2024
+
+- [Scientific Programming for Data Science - Module 2](https://davidebrex.github.io/sciprog-ds-M2-23_24/){:target="_blank"}
+- [Genomics Technologies for QCB and BCM - Bioinformatics Lab](https://webapps.unitn.it/du/it/Persona/PER0230789/Didattica)
