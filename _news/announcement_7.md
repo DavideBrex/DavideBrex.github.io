@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Paper Published on Science Advances!
+title: New Paper Published in Science Advances!
 date: 15 March 2024
 inline: false
 ---
