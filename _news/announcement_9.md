@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New pubblication on NAR Genomics and Bioinformatics!
+title: New pubblication in NAR Genomics and Bioinformatics!
 date: 1 September 2024
 inline: false
 ---
