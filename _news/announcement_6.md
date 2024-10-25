@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Chair of Rsg-Italy Young Symposium at CIBB 2023
+title: Chair of the Rsg-Italy Young Symposium at CIBB 2023
 date: 7 September 2023
 inline: false
 ---

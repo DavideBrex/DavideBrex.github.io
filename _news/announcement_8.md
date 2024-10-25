@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Our article has been mentioned by several local and national newspapers!
+title: Our article has been mentioned by several local and national newspapers!
 date: 30 March 2024
 inline: false
 ---

@@ -13,5 +13,5 @@ nav_order: 4
 
 ### 2023-2024
 
-- [Scientific Programming for Data Science - Module 2](https://davidebrex.github.io/sciprog-ds-M2-23_24/){:target="_blank"}
-- [Genomics Technologies for QCB and BCM - Bioinformatics Lab](https://webapps.unitn.it/du/it/Persona/PER0230789/Didattica)
+- Scientific Programming for Data Science - Module 2
+- Genomics Technologies for QCB and BCM - Bioinformatics Lab
