@@ -2,15 +2,16 @@
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Ann. Neurol.":
+  url: https://onlinelibrary.wiley.com/journal/15318249
+  color: "#407297"
 
 "Vision":
   color: "#009f36"
 
 "Sci. Adv.":
   url: https://www.science.org/journal/sciadv
-  color: "#00369f"
+  color: "#CE4143"
 
 "Nargab":
   url: https://academic.oup.com/nargab
