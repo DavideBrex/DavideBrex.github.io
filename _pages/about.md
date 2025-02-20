@@ -22,7 +22,7 @@ Trained as computer scientist and bioinformatician, I am now working as computat
 
 - MSc in Bioinformatics and System biology - University of Amsterdam, NL  (2020)
 
-- Bachelor in Bioinformatics - University of Veronam, IT (2018)
+- Bachelor in Bioinformatics - University of Verona, IT (2018)
 
 My research focuses on the epigenetics of liver regeneration and tumorigeneisis. I’m currently learning scRNA-seq, scATAC-seq
 

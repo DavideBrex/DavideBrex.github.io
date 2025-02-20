@@ -11,5 +11,5 @@ It has been an incredible journey filled with challenges, discoveries, and growt
 
 I am now continuing this path as a postdoctoral researcher and look forward to the next steps.
 
-![Defence Davide](/assets/img/defence_foto.png)
+![Defence Davide](/assets/img/defence_foto.jpg)
 
