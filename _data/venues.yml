@@ -20,3 +20,12 @@
 "EmboPress":
   url: https://www.embopress.org/
   color: "#006400"
+
+"brain":
+  url: https://academic.oup.com/brain
+  color: "#407097"
+
+
+"iScience":
+  url: https://www.cell.com/iscience/home
+  color: "#405697"
