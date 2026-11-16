@@ -21,10 +21,13 @@
   url: https://www.embopress.org/
   color: "#006400"
 
-"brain":
+"Brain":
   url: https://academic.oup.com/brain
   color: "#407097"
 
+Cell Host Microbe:
+  url: https://www.cell.com/cell-host-microbe/home
+  color: "#1F77B4"
 
 "iScience":
   url: https://www.cell.com/iscience/home
