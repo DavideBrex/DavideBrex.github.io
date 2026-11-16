@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Trained as computer scientist and bioinformatician, I am now a postdoctoral researcher in the group of Computational Systems Biology of Prof. Fortelny (University of Salzburg - AT)
+Trained as computer scientist and bioinformatician, I am now a postdoctoral researcher in the group of Computational Systems Biology of Prof. Nikolaus Fortelny (University of Salzburg - AT)
 
 Previous experience:
 
