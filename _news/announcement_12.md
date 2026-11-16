@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New position
+title: New position!
 date: 1 November 2026
 inline: false
 ---

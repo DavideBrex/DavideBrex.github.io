@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral researcher in the <a href='https://www.plus.ac.at/biowissenschaften/der-fachbereich/arbeitsgruppen/fortelny'> Computational Systems Biology Group </a>. , University of Salzburg, Austria
+subtitle: Postdoctoral researcher, University of Salzburg (Austria)
 
 profile:
   align: right
@@ -16,7 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Trained as computer scientist and bioinformatician, I am now a postdoctoral researcher in the group of Computational Systems Biology of Prof. Nikolaus Fortelny (University of Salzburg - AT)
+Trained as computer scientist and bioinformatician, I am now a postdoctoral researcher in the <a href='https://www.plus.ac.at/biowissenschaften/der-fachbereich/arbeitsgruppen/fortelny'> Computational Systems Biology group </a> of Prof. Nikolaus Fortelny (University of Salzburg - AT)
+
+I am working in the P01 of the [EpiFlaMe](https://www.plus.ac.at/epiflame/team/p01-coordination/) Consortium (FWF Special research area)
 
 Previous experience:
 
